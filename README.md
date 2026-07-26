@@ -1,7 +1,12 @@
+Hi There  I'm Gentoku Asami
+Attention is ALL You Need !!
+## My Carrer
+I work as a full-stack engineer and conduct research on machine learning and large language models (LLMs) in my university laboratory.
+
 ### Qiita
 https://qiita.com/KotatsuEngineer
 
-### ポートフォリオ
+### PortFolio
 https://www.kotatsu-engineer.com
 
 ### Atcoder
