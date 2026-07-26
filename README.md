@@ -4,6 +4,12 @@ https://qiita.com/KotatsuEngineer
 ### ポートフォリオ
 https://www.kotatsu-engineer.com
 
+### Atcoder
+https://atcoder.jp/users/asaminin
+
+### Kaggle
+https://www.kaggle.com/asamigentoku
+
 ### 🛠 Tech Stack
 
 #### 💻 Programming Languages
